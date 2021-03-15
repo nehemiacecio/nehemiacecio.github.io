@@ -1,0 +1,12 @@
+User:
+
+1.
+  Email: Nehemia@gmail.com
+  pass : 123
+
+Admin:
+
+1.
+  Username: admin
+  Pass	  : admin123
+  
